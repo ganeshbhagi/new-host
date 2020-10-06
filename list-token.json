@@ -1,6 +1,6 @@
 {
     "name": "Default list",
-    "logoURI": "./logo.png",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json",
     "keywords": [
       "dfyn",
       "defi"
