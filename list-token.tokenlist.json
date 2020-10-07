@@ -53,7 +53,7 @@
         "name": "WBTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "logoURI": "https://wbtc.network/assets/logos/logo-WBTC.svg"
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
       }
     ],
     "version": {
