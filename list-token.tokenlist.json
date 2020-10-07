@@ -9,7 +9,7 @@
     "tokens": [
       {
         "chainId": 137,
-        "address": "0x84000b263080BC37D1DD73A29D92794A6CF1564e",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
         "name": "DAI",
         "symbol": "DAI",
         "decimals": 18,
@@ -25,7 +25,7 @@
       },
       {
         "chainId": 137,
-        "address": "0x8cc8538d60901d19692F5ba22684732Bc28F54A3",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "name": "WETH",
         "symbol": "WETH",
         "decimals": 18,
@@ -38,6 +38,22 @@
         "symbol": "wMatic",
         "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
+      },
+         {
+        "chainId": 137,
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+      },
+         {
+        "chainId": 137,
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://wbtc.network/assets/logos/logo-WBTC.svg"
       }
     ],
     "version": {
