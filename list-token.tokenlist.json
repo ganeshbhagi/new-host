@@ -9,7 +9,7 @@
     "tokens": [
       {
         "chainId": 137,
-        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "address": "0x84000b263080BC37D1DD73A29D92794A6CF1564e",
         "name": "DAI",
         "symbol": "DAI",
         "decimals": 18,
@@ -17,7 +17,7 @@
       },
       {
         "chainId": 137,
-        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
         "name": "USDC",
         "symbol": "USDC",
         "decimals": 6,
@@ -25,7 +25,7 @@
       },
       {
         "chainId": 137,
-        "address": "0xa45b966996374E9e65ab991C6FE4Bfce3a56DDe8",
+        "address": "0x8cc8538d60901d19692F5ba22684732Bc28F54A3",
         "name": "WETH",
         "symbol": "WETH",
         "decimals": 18,
