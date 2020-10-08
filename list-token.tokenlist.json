@@ -29,7 +29,7 @@
         "name": "WETH",
         "symbol": "WETH",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png"
+        "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
       },
        {
         "chainId": 137,
