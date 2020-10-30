@@ -26,8 +26,8 @@
         {
             "chainId": 137,
             "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-            "name": "WETH",
-            "symbol": "WETH",
+            "name": "ETH",
+            "symbol": "ETH",
             "decimals": 18,
             "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
         },
@@ -91,6 +91,6 @@
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     }
 }
