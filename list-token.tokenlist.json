@@ -86,11 +86,19 @@
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+        },
+        {
+            "chainId": 137,
+            "address": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
+            "name": "IG Gold (PoS)",
+            "symbol": "IGG",
+            "decimals": 6,
+            "logoURI": "https://www.iggalaxy.com/static/assets/landingpages/coin.png"
         }
     ],
     "version": {
         "major": 0,
-        "minor": 2,
+        "minor": 3,
         "patch": 2
     }
 }
