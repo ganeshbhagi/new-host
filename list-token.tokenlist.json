@@ -102,11 +102,19 @@
           "decimals": 18,
           "chainId": 137,
           "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+        },
+        {
+            "name": "Route",
+            "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+            "symbol": "Route",
+            "decimals": 8,
+            "chainId": 137,
+            "logoURI": "https://router-protocol.s3-ap-southeast-1.amazonaws.com/route+token+200x200-19.png"
         }
     ],
     "version": {
         "major": 0,
-        "minor": 5,
+        "minor": 6,
         "patch": 3
     }
 }
