@@ -107,7 +107,7 @@
             "name": "Route",
             "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
             "symbol": "Route",
-            "decimals": 8,
+            "decimals": 18,
             "chainId": 137,
             "logoURI": "https://router-protocol.s3-ap-southeast-1.amazonaws.com/route+token+200x200-19.png"
         }
