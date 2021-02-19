@@ -110,11 +110,91 @@
             "decimals": 18,
             "chainId": 137,
             "logoURI": "https://router-protocol.s3-ap-southeast-1.amazonaws.com/route+token+200x200-19.png"
-        }
+        },
+            {
+      "name": "Rebalance Token",
+      "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
+      "symbol": "RBAL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
+    },
+    {
+      "name": "Swirge",
+      "address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
+      "symbol": "SWG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/swirge_32.png"
+    },
+    {
+      "name": "SportX",
+      "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+      "symbol": "SX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
+    },
+            {
+      "name": "Must",
+      "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+      "symbol": "MUST",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/cometh_32.png"
+    },
+            {
+      "name": "EthLend Token",
+      "address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
+      "symbol": "LEND",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+            {
+      "name": "Frax",
+      "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
+    },
+    {
+      "name": "Aavegotchi GHST Token",
+      "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "symbol": "GHST",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
+    },
+            {
+      "name": "BlazarBits",
+      "address": "0x462D8d82C2B2D2DDabf7f8a93928De09d47A5807",
+      "symbol": "BZB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://flowimage.flow.page/resize?img=https%3A%2F%2Fcdn.flow.page%2Fimages%2Fe5e655f1-421f-4948-be2e-c679ea1cdc2d-profile-picture%3Fm%3D1610401591&w=320"
+    },
+            {
+      "name": "WazirX",
+      "address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+      "symbol": "WRX",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
+    }
     ],
     "version": {
         "major": 0,
-        "minor": 6,
+        "minor": 7,
         "patch": 4
     }
 }
