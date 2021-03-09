@@ -190,11 +190,35 @@
       "decimals": 8,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
+    },
+            {
+      "name": "Mantra Dao",
+      "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+      "symbol": "OM",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png?1598332353"
+    },
+            {
+      "name": "Razor",
+      "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+      "symbol": "RAZOR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/13797/small/icon.png?1611919354"
+    },
+            {
+      "name": "Quick",
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
     }
     ],
     "version": {
-        "major": 0,
-        "minor": 7,
-        "patch": 4
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     }
 }
