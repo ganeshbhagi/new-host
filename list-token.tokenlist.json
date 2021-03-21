@@ -218,8 +218,8 @@
                 {
             "chainId": 137,
             "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-            "name": "wMatic",
-            "symbol": "wMatic",
+            "name": "WMATIC",
+            "symbol": "WMATIC2",
             "decimals": 18,
             "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
         }
@@ -227,6 +227,6 @@
     "version": {
         "major": 0,
         "minor": 9,
-        "patch": 4
+        "patch": 5
     }
 }
