@@ -222,29 +222,35 @@
             "symbol": "WMATIC2",
             "decimals": 18,
             "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
-        }
-        ,
-                {
+        },
+        {
             "chainId": 137,
             "address": "0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
             "name": "NORD",
             "symbol": "NORD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/nordfinance/nord-assets/master/logo.png"
-        }
-                ,
-                {
+        },
+        {
             "chainId": 137,
             "address": "0xa3eD22EEE92a3872709823a6970069e12A4540Eb",
             "name": "Frontier",
             "symbol": "FRONT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12479/large/frontier_logo.png?1600145472"
+        },
+        {
+            "chainId": 137,
+            "address": "0x40CCD55B789fdEE8D434915dC2Aa6Bd938506A92",
+            "name": "Rage",
+            "symbol": "RAGE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476"
         }
     ],
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
