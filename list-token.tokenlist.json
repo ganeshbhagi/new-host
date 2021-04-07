@@ -205,7 +205,7 @@
       "symbol": "RAZOR",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/13797/small/icon.png?1611919354"
+      "logoURI": "https://etherscan.io/token/images/razornetwork_32.png"
     },
             {
       "name": "Quick",
@@ -213,7 +213,7 @@
       "symbol": "QUICK",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+      "logoURI": "https://etherscan.io/token/images/quickswap_32.png"
     },
                 {
             "chainId": 137,
@@ -284,7 +284,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     }
 }
