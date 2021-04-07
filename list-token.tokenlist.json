@@ -254,11 +254,37 @@
             "symbol": "GLCH",
             "decimals": 18,
             "logoURI": "https://etherscan.io/token/images/glitch_32.png"
+        },
+                        {
+            "chainId": 137,
+            "address": "0x67480287cb3715d1d9429b38772c71d6e94c16da",
+            "name": "Union",
+            "symbol": "UNN",
+            "decimals": 18,
+            "logoURI": "https://etherscan.io/token/images/unionprotocol_32.png"
+        },
+        
+                        {
+            "chainId": 137,
+            "address": "0xa79e0bfc579c709819f4a0e95d4597f03093b011",
+            "name": "Stater",
+            "symbol": "STR",
+            "decimals": 18,
+            "logoURI": "https://etherscan.io/token/images/stater_32.png"
+        },
+                           {
+            "chainId": 137,
+            "address": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
+            "name": "Coreto",
+            "symbol": "COR",
+            "decimals": 18,
+            "logoURI": "https://etherscan.io/token/images/cortoken_32.png?v=124124521"
         }
+        
     ],
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }
