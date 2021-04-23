@@ -272,6 +272,16 @@
             "decimals": 18,
             "logoURI": "https://etherscan.io/token/images/stater_32.png"
         },
+        
+                                {
+            "chainId": 137,
+            "address": "0xB1CB4aC6b1685DcbE691b9246406748805aa6FA8",
+            "name": "PolySafe",
+            "symbol": "POLYSAFE",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/polysafe_32.png"
+        },
+        
                            {
             "chainId": 137,
             "address": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
@@ -284,7 +294,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     }
 }
