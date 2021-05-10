@@ -16,6 +16,14 @@
             "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
         },
         {
+            "name": "Aave",
+            "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://etherscan.io/token/images/aave_32.png"
+        },
+        {
             "chainId": 137,
             "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
             "name": "USDC",
@@ -294,7 +302,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     }
 }
