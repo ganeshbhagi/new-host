@@ -33,6 +33,14 @@
         },
         {
             "chainId": 137,
+            "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+            "name": "DFYN Token",
+            "symbol": "DFYN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
+        },
+        {
+            "chainId": 137,
             "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
             "name": "ETH",
             "symbol": "ETH",
@@ -302,7 +310,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     }
 }
