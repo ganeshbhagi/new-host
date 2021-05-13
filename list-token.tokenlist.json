@@ -305,12 +305,20 @@
             "symbol": "COR",
             "decimals": 18,
             "logoURI": "https://etherscan.io/token/images/cortoken_32.png?v=124124521"
+        },
+	{
+            "chainId": 137,
+            "address": "0xD0252fB67606Ed74d0cACD17B2eb38446e4466c9",
+            "name": "ArGo Token",
+            "symbol": "ARGO",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8ItdsvJ.png"
         }
         
     ],
     "version": {
         "major": 1,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     }
 }
