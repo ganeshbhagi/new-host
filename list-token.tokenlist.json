@@ -313,6 +313,14 @@
             "symbol": "ARGO",
             "decimals": 18,
             "logoURI": "https://i.imgur.com/8ItdsvJ.png"
+        },
+	{
+            "chainId": 137,
+            "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+            "name": "Polycat",
+            "symbol": "FISH",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/h3tIwIg.png"
         }
         
     ],
