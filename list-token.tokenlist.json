@@ -321,6 +321,14 @@
             "symbol": "FISH",
             "decimals": 18,
             "logoURI": "https://i.imgur.com/h3tIwIg.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
+            "name": "ZeroSwap",
+            "symbol": "ZEE",
+            "decimals": 18,
+            "logoURI": "https://bscscan.com/token/images/zeroswapprotocol_32.png"
         }
         
     ],
