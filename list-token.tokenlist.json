@@ -342,6 +342,14 @@
 			"symbol": "ZEE",
 			"decimals": 18,
 			"logoURI": "https://bscscan.com/token/images/zeroswapprotocol_32.png"
+		},
+		{
+			"name": "Matic Ruletka",
+			"address": "0x38332D8671961aE13d0BDe040d536eB336495eEA",
+			"symbol": "mRTK",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://ruletka.fun/wp-content/uploads/2020/06/logo_alpha.png"
 		}
 	],
 	"version": {
