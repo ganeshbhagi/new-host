@@ -6,6 +6,14 @@
 	"tokens": [
 		{
 			"chainId": 137,
+			"address": "0xba47320eF6B1039F19F3C4096F0f3B3e8Eb8d1F8",
+			"name": "NEBULA",
+			"symbol": "NEBULA",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/Palette-Finance/images/main/nebula.png"
+		},
+		{
+			"chainId": 137,
 			"address": "0x5FBccc4Acc0B9339D7CDC5d6336A5c88D89e5327",
 			"name": "SOLAR",
 			"symbol": "SOLAR",
