@@ -349,12 +349,12 @@
 			"symbol": "mRTK",
 			"decimals": 18,
 			"chainId": 137,
-			"logoURI": "https://ruletka.fun/wp-content/uploads/2020/06/logo_alpha.png"
+			"logoURI": "https://assets.coingecko.com/coins/images/11102/small/rtk-logo.png"
 		}
 	],
 	"version": {
 		"major": 1,
 		"minor": 14,
-		"patch": 0
+		"patch": 1
 	}
 }
