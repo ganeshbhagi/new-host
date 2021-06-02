@@ -3,8 +3,7 @@
 	"logoURI": "https://raw.githubusercontent.com/ganeshbhagi/new-host/main/logo.png",
 	"keywords": ["dfyn", "defi"],
 	"timestamp": "2020-09-03T12:37:57.000+00:00",
-	"tokens": [
-		{
+	"tokens": [{
 			"chainId": 137,
 			"address": "0xba47320eF6B1039F19F3C4096F0f3B3e8Eb8d1F8",
 			"name": "NEBULA",
@@ -370,7 +369,7 @@
 	],
 	"version": {
 		"major": 1,
-		"minor": 15,
+		"minor": 16,
 		"patch": 0
 	}
 }
