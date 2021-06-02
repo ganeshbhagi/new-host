@@ -365,6 +365,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/12242/small/anyswap.jpg"
+		},
+		{
+			"name": "Unilend Finance",
+			"address": "0x5b4cf2c120a9702225814e18543ee658c5f8631e",
+			"symbol": "UFT",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
 		}
 	],
 	"version": {
