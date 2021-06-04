@@ -373,6 +373,22 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+		},
+		{
+			"name": "Wrapped LUNA Token",
+			"address": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+			"symbol": "LUNA",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://etherscan.io/token/images/terra-luna_32.png"
+		},
+		{
+			"name": "Wrapped UST Token",
+			"address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+			"symbol": "UST",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://etherscan.io/token/images/terra-ust_32.png"
 		}
 	],
 	"version": {
