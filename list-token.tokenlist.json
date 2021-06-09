@@ -389,7 +389,15 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://etherscan.io/token/images/terra-ust_32.png"
-		}
+		},
+		{
+ 			"name": "Cryption Network Token",
+ 			"address": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
+ 			"symbol": "CNT",
+ 			"decimals": 18,
+ 			"chainId": 137,
+ 			"logoURI": "https://cryption-network.s3.us-east-2.amazonaws.com/Globe+Gradient.png"
+ 		}
 	],
 	"version": {
 		"major": 1,
