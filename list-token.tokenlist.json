@@ -391,17 +391,25 @@
 			"logoURI": "https://etherscan.io/token/images/terra-ust_32.png"
 		},
 		{
- 			"name": "Cryption Network Token",
- 			"address": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
- 			"symbol": "CNT",
- 			"decimals": 18,
- 			"chainId": 137,
- 			"logoURI": "https://cryption-network.s3.us-east-2.amazonaws.com/Globe+Gradient.png"
- 		}
+			"name": "Ferrum Network Token",
+			"address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
+			"symbol": "FRM",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
+		},
+		{
+			"name": "Cryption Network Token",
+			"address": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
+			"symbol": "CNT",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://cryption-network.s3.us-east-2.amazonaws.com/Globe+Gradient.png"
+		}
 	],
 	"version": {
 		"major": 1,
-		"minor": 18,
+		"minor": 19,
 		"patch": 0
 	}
 }
