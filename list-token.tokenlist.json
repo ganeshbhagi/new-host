@@ -421,7 +421,15 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/AGAToken/AGAToken/main/agac128.png"
-		} 
+		},
+		   {
+			"name": "Royale",
+			"address": "0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561",
+			"symbol": "ROYA",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://raw.githubusercontent.com/RoyaleFinanceV1/royale-contracts/master/royale.png"
+		   }
 	],
 	"version": {
 		"major": 1,
