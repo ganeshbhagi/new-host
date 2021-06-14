@@ -405,7 +405,23 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://cryption-network.s3.us-east-2.amazonaws.com/Globe+Gradient.png"
-		}
+		},
+		{
+			"name": "AGA Carbon Rewards",
+			"address": "0xcBce9f77921C2E90522d438dF4C5582F4c617768",
+			"symbol": "AGAcr",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://raw.githubusercontent.com/AGAToken/AGAToken/main/acr128.png"
+		},
+		   {
+			"name": "AGA Carbon Credit",
+			"address": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
+			"symbol": "AGAc",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://raw.githubusercontent.com/AGAToken/AGAToken/main/agac128.png"
+		} 
 	],
 	"version": {
 		"major": 1,
