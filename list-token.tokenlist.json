@@ -414,18 +414,34 @@
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/AGAToken/AGAToken/main/acr128.png"
 		},
-		   {
+		{
 			"name": "AGA Carbon Credit",
 			"address": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
 			"symbol": "AGAc",
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/AGAToken/AGAToken/main/agac128.png"
-		} 
+		},
+		{
+			"name": "AGA",
+			"address": "0x033d942a6b495c4071083f4cde1f17e986fe856c",
+			"symbol": "AGA",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/jP16jUZ.png"
+		},
+		{
+			"name": "AGAr",
+			"address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
+			"symbol": "AGAr",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/CqnxeQg.png"
+		}
 	],
 	"version": {
 		"major": 1,
-		"minor": 20,
+		"minor": 21,
 		"patch": 0
 	}
 }
