@@ -426,7 +426,7 @@
 			"name": "AGA",
 			"address": "0x033d942a6b495c4071083f4cde1f17e986fe856c",
 			"symbol": "AGA",
-			"decimals": 18,
+			"decimals": 4,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/jP16jUZ.png"
 		},
@@ -434,14 +434,14 @@
 			"name": "AGAr",
 			"address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
 			"symbol": "AGAr",
-			"decimals": 18,
+			"decimals": 8,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/CqnxeQg.png"
 		}
 	],
 	"version": {
 		"major": 1,
-		"minor": 21,
+		"minor": 22,
 		"patch": 0
 	}
 }
