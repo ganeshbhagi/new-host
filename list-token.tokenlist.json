@@ -445,6 +445,14 @@
 			"decimals": 8,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/CqnxeQg.png"
+		},
+		{
+			"chainId": 137,
+			"address": "0xD12DC5319808Bb31ba95AE5764def2627d5966CE",
+			"name": "Pirate Booty",
+			"symbol": "BOOTY",
+			"decimals": 18,
+			"logoURI": "https://piratedice.xyz/booty.png"
 		}
 	],
 	"version": {
