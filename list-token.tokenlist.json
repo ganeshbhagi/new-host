@@ -462,6 +462,14 @@
       "symbol": "UFARM",
       "decimals": 18,
       "logoURI": "https://oropocket.com/ufarm.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1B2a3C1417C69DA16bb9193268d0AAbFe54b3b39",
+      "name": "Roseon token",
+      "symbol": "ROSN",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png"
     }
   ],
   "version": {
