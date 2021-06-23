@@ -480,6 +480,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png"
     },
 		{
+			"name": "xDollar",
+			"address": "0x3Dc7B06dD0B1f08ef9AcBbD2564f8605b4868EEA",
+			"symbol": "XDO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://app.fluidy.fi/logo-xdo_origin.png"
+		},
+		{
 			"chainId": 137,
 			"address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
 			"name": "Newscrypto",
@@ -490,7 +498,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   }
 }
