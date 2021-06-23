@@ -478,11 +478,19 @@
       "symbol": "ROSN",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png"
-    }
+    },
+		{
+			"chainId": 137,
+			"address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+			"name": "Newscrypto",
+			"symbol": "NWC",
+			"decimals": 18,
+			"logoURI": "https://newscrypto.io/logo.png"
+		}
   ],
   "version": {
     "major": 1,
-    "minor": 27,
+    "minor": 28,
     "patch": 0
   }
 }
