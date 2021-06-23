@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "name": "miMatic",
+      "symbol": "MIMATIC",
+      "decimals": 18,
+      "logoURI": "https://app.mai.finance/static/media/mimatic-red.1ccf3be7.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xba47320eF6B1039F19F3C4096F0f3B3e8Eb8d1F8",
       "name": "NEBULA",
       "symbol": "NEBULA",
