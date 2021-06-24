@@ -494,11 +494,19 @@
 			"symbol": "NWC",
 			"decimals": 18,
 			"logoURI": "https://newscrypto.io/logo.png"
-		}
+		},
+    {
+      "name": "CRV",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
+    }
   ],
   "version": {
     "major": 1,
-    "minor": 29,
+    "minor": 30,
     "patch": 0
   }
 }
