@@ -566,11 +566,19 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10521.png"
-    }  
+    },
+        {
+            "chainId": 137,
+            "address": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+            "name": "MATICPAD",
+            "symbol": "MATPAD",
+            "decimals": 18,
+            "logoURI": "https://maticpad.com/images/MaticPadLogoicon32x32.png"
+        }
   ],
   "version": {
     "major": 1,
-    "minor": 33,
+    "minor": 34,
     "patch": 0
   }
 }
