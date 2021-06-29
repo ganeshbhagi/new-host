@@ -504,6 +504,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
     },
     {
+      "name": "xDollar Stablecoin",
+      "address": "0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975",
+      "symbol": "xUSD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://app.fluidy.fi/logo-xusd_origin.png"
+    },
+    {
       "name": "EASY V2",
       "address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
       "symbol": "EZ",
