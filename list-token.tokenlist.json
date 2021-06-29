@@ -558,11 +558,19 @@
       "decimals": 18,
       "chainId": 66,
       "logoURI": "https://static.oklink.com/cdn/explorer/okexchain/exchain_btck.png"
-    }
+    },
+    {
+      "name": "CosmicSwap",
+      "address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
+      "symbol": "COSMIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10521.png"
+    }  
   ],
   "version": {
     "major": 1,
-    "minor": 32,
+    "minor": 33,
     "patch": 0
   }
 }
