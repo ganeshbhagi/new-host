@@ -574,7 +574,15 @@
             "symbol": "MATPAD",
             "decimals": 18,
             "logoURI": "https://maticpad.com/images/MaticPadLogoicon32x32.png"
-        }
+        },
+    {
+      "name": "pTokens USDO",
+      "address": "0xC79358DE3868A7C751F52cFeECd650595AEE8B18",
+      "symbol": "USDO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/opendao-protocols/opendao-assets/main/USDO-logo.png"
+    },
   ],
   "version": {
     "major": 1,
