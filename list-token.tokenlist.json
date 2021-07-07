@@ -560,6 +560,14 @@
       "logoURI": "https://static.oklink.com/cdn/explorer/okexchain/exchain_btck.png"
     },
     {
+      "name": "beefy.finance",
+      "symbol": "BIFI",
+      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
+    },
+    {
       "name": "CosmicSwap",
       "address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
       "symbol": "COSMIC",
