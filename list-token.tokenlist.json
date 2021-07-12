@@ -582,11 +582,19 @@
             "symbol": "MATPAD",
             "decimals": 18,
             "logoURI": "https://maticpad.com/images/MaticPadLogoicon32x32.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+            "name": "Iron Finance ICE Token",
+            "symbol": "ICE",
+            "decimals": 18,
+            "logoURI": "https://cdn.discordapp.com/attachments/794129085387374592/862637810138087434/5.png"
         }
   ],
   "version": {
     "major": 1,
-    "minor": 34,
+    "minor": 35,
     "patch": 0
   }
 }
