@@ -590,6 +590,14 @@
             "symbol": "ICE",
             "decimals": 18,
             "logoURI": "https://cdn.discordapp.com/attachments/794129085387374592/862637810138087434/5.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+            "name": "Titan DAO Finance",
+            "symbol": "TITAN",
+            "decimals": 18,
+            "logoURI": "https://polygonscan.com/token/images/titan_32.png"
         }
   ],
   "version": {
