@@ -598,6 +598,14 @@
             "symbol": "TITAN",
             "decimals": 18,
             "logoURI": "https://polygonscan.com/token/images/titan_32.png"
+        },
+        { 
+            "name": "Rocket Vault",
+            "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+            "symbol": "RVF",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://drive.google.com/file/d/16MwXEohiEoFn2nuGAUCVS-dBRj7MPaIS/view"
         }
   ],
   "version": {
