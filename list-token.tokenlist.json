@@ -278,7 +278,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+      "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
       "name": "Nexo",
       "symbol": "NEXO",
       "decimals": 18,
@@ -627,7 +627,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 39,
+    "minor": 40,
     "patch": 0
   }
 }
