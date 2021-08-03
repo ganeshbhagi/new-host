@@ -278,6 +278,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+      "name": "Nexo",
+      "symbol": "NEXO",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/nexo-nexo-logo.svg"
+    },
+    {
+      "chainId": 137,
       "address": "0xa3eD22EEE92a3872709823a6970069e12A4540Eb",
       "name": "Frontier",
       "symbol": "FRONT",
