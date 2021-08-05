@@ -14,6 +14,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+      "name": "GAJ",
+      "symbol": "GAJ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PolyGaj/logo/main/logo.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xba47320eF6B1039F19F3C4096F0f3B3e8Eb8d1F8",
       "name": "NEBULA",
       "symbol": "NEBULA",
