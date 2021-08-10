@@ -622,8 +622,15 @@
             "symbol": "CHART",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12523/small/chartex.png"
-        }	  
-	  
+        },
+      {
+        "chainId": 137,
+        "address": "0x0335DeFC8A1977b99488e0b5f5c6bc3D44fAcdD4",
+        "name": "Attrace",
+        "symbol": "ATTR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/attrace/assets/main/images/attrace_logo_v2_256.png"
+      }
   ],
   "version": {
     "major": 1,
