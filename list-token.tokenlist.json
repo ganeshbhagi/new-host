@@ -18,7 +18,15 @@
       "name": "GAJ",
       "symbol": "GAJ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PolyGaj/logo/main/logo.png"
+      "logoURI": "https://gaj.finance/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539",
+      "name": "ADDY",
+      "symbol": "ADDY",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/adamant_32.png"
     },
     {
       "chainId": 137,
@@ -630,12 +638,19 @@
             "symbol": "CHART",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12523/small/chartex.png"
-        }	  
-	  
+        },
+      {
+        "chainId": 137,
+        "address": "0x0335DeFC8A1977b99488e0b5f5c6bc3D44fAcdD4",
+        "name": "Attrace",
+        "symbol": "ATTR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/attrace/assets/main/images/attrace_logo_v2_256.png"
+      }
   ],
   "version": {
     "major": 1,
-    "minor": 40,
+    "minor": 41,
     "patch": 0
   }
 }
