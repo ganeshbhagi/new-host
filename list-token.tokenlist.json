@@ -647,6 +647,14 @@
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/attrace/assets/main/images/attrace_logo_v2_256.png"
       }
+      {
+        "chainId": 137,
+        "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+        "name": "Eleven.finance",
+        "symbol": "ELE",
+        "decimals": 18,
+        "logoURI": "https://eleven.finance/ELE-logo.svg"
+      }
   ],
   "version": {
     "major": 1,
