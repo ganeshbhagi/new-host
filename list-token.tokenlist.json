@@ -14,6 +14,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+      "name": "GAJ",
+      "symbol": "GAJ",
+      "decimals": 18,
+      "logoURI": "https://gaj.finance/logo.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539",
       "name": "ADDY",
       "symbol": "ADDY",
