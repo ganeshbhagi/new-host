@@ -654,11 +654,19 @@
         "symbol": "ELE",
         "decimals": 18,
         "logoURI": "https://eleven.finance/ELE-logo.svg"
-      }
+      },
+      {
+      "chainId": 137,
+      "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+      "name": "Polytrade",
+      "symbol": "TRADE",
+      "decimals": 18,
+      "logoURI": "https://www.notion.so/Color-Symbol-a9fb7e729727483bb3edc6b55593bdcc"
+    }
   ],
   "version": {
     "major": 1,
-    "minor": 44,
+    "minor": 45,
     "patch": 0
   }
 }
