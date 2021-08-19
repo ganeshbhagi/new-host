@@ -661,12 +661,12 @@
       "name": "Polytrade",
       "symbol": "TRADE",
       "decimals": 18,
-      "logoURI": "https://www.notion.so/Color-Symbol-a9fb7e729727483bb3edc6b55593bdcc"
+      "logoURI": "https://bit.ly/3z2PRbh"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 45,
+    "minor": 46,
     "patch": 0
   }
 }
