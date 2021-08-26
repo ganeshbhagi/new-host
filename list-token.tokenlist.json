@@ -678,7 +678,15 @@
 "decimals": 9,
 "chainId": 137,
 "logoURI": "https://user-images.githubusercontent.com/85872070/129144899-4c4245e9-19d0-4c22-a930-5d7db497eb2c.png"
-	  }
+	  },
+    {
+      "chainId": 137,
+      "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+      "name": "IRON Stablecoin",
+      "symbol": "IRON",
+      "decimals": 18,
+      "logoURI": "https://ironfi-public.s3.us-east-2.amazonaws.com/tokens/IRON.png"
+    }
   ],
   "version": {
     "major": 1,
