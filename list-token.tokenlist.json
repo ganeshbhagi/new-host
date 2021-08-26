@@ -1,10 +1,7 @@
 {
   "name": "Default list",
   "logoURI": "https://raw.githubusercontent.com/ganeshbhagi/new-host/main/logo.png",
-  "keywords": [
-    "dfyn",
-    "defi"
-  ],
+  "keywords": ["dfyn", "defi"],
   "timestamp": "2020-09-03T12:37:57.000+00:00",
   "tokens": [
     {
@@ -343,6 +340,7 @@
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/unionprotocol_32.png"
     },
+
     {
       "chainId": 137,
       "address": "0xa79e0bfc579c709819f4a0e95d4597f03093b011",
@@ -351,6 +349,7 @@
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/stater_32.png"
     },
+
     {
       "chainId": 137,
       "address": "0xB1CB4aC6b1685DcbE691b9246406748805aa6FA8",
@@ -359,6 +358,7 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/polysafe_32.png"
     },
+
     {
       "chainId": 137,
       "address": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
@@ -511,22 +511,22 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png"
     },
-    {
-      "name": "xDollar",
-      "address": "0x3Dc7B06dD0B1f08ef9AcBbD2564f8605b4868EEA",
-      "symbol": "XDO",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://app.fluidy.fi/logo-xdo_origin.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
-      "name": "Newscrypto",
-      "symbol": "NWC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9805/small/Tu1_NI3s_%281%29.png?1614745476"
-    },
+		{
+			"name": "xDollar",
+			"address": "0x3Dc7B06dD0B1f08ef9AcBbD2564f8605b4868EEA",
+			"symbol": "XDO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://app.fluidy.fi/logo-xdo_origin.png"
+		},
+		{
+			"chainId": 137,
+			"address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+			"name": "Newscrypto",
+			"symbol": "NWC",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/9805/small/Tu1_NI3s_%281%29.png?1614745476"
+		},
     {
       "name": "CRV",
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
@@ -551,7 +551,7 @@
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/easyfi_32.png"
     },
-    {
+	  {
       "name": "DAIK",
       "address": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
       "symbol": "DAIK",
@@ -559,7 +559,7 @@
       "chainId": 66,
       "logoURI": "https://static.oklink.com/cdn/explorer/okexchain/exchain_daik.png"
     },
-    {
+	  {
       "name": "USDC",
       "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
       "symbol": "USDC",
@@ -567,7 +567,7 @@
       "chainId": 66,
       "logoURI": "https://static.oklink.com/cdn/explorer/okexchain/exchain_usdc.png"
     },
-    {
+	  {
       "name": "USDT",
       "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
       "symbol": "USDT",
@@ -575,7 +575,7 @@
       "chainId": 66,
       "logoURI": "https://static.oklink.com/cdn/explorer/okexchain/exchain_usdt.png"
     },
-    {
+	  {
       "name": "ETHK",
       "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
       "symbol": "ETHK",
@@ -583,7 +583,7 @@
       "chainId": 66,
       "logoURI": "https://static.oklink.com/cdn/explorer/okexchain/exchain_ethk.png"
     },
-    {
+	  {
       "name": "BTCK",
       "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
       "symbol": "BTCK",
@@ -607,63 +607,63 @@
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10521.png"
     },
-    {
-      "chainId": 137,
-      "address": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
-      "name": "MATICPAD",
-      "symbol": "MATPAD",
-      "decimals": 18,
-      "logoURI": "https://maticpad.com/images/MaticPadLogoicon32x32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
-      "name": "Iron Finance ICE Token",
-      "symbol": "ICE",
-      "decimals": 18,
-      "logoURI": "https://cdn.discordapp.com/attachments/794129085387374592/862637810138087434/5.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
-      "name": "Titan DAO Finance",
-      "symbol": "TITAN",
-      "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/titan_32.png"
-    },
-    {
-      "name": "Rocket Vault",
-      "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
-      "symbol": "RVF",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/14728/small/7.png?1618414105"
-    },
-    {
-      "chainId": 137,
-      "address": "0x083c56d87ead73d6231c165ec450c6e28f3399c9",
-      "name": "ChartEx",
-      "symbol": "CHART",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12523/small/chartex.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x0335DeFC8A1977b99488e0b5f5c6bc3D44fAcdD4",
-      "name": "Attrace",
-      "symbol": "ATTR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/attrace/assets/main/images/attrace_logo_v2_256.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
-      "name": "Eleven.finance",
-      "symbol": "ELE",
-      "decimals": 18,
-      "logoURI": "https://eleven.finance/ELE-logo.svg"
-    },
-    {
+        {
+            "chainId": 137,
+            "address": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+            "name": "MATICPAD",
+            "symbol": "MATPAD",
+            "decimals": 18,
+            "logoURI": "https://maticpad.com/images/MaticPadLogoicon32x32.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+            "name": "Iron Finance ICE Token",
+            "symbol": "ICE",
+            "decimals": 18,
+            "logoURI": "https://cdn.discordapp.com/attachments/794129085387374592/862637810138087434/5.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+            "name": "Titan DAO Finance",
+            "symbol": "TITAN",
+            "decimals": 18,
+            "logoURI": "https://polygonscan.com/token/images/titan_32.png"
+        },
+        { 
+            "name": "Rocket Vault",
+            "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+            "symbol": "RVF",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/14728/small/7.png?1618414105"
+        },
+        {
+            "chainId": 137,
+            "address": "0x083c56d87ead73d6231c165ec450c6e28f3399c9",
+            "name": "ChartEx",
+            "symbol": "CHART",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12523/small/chartex.png"
+        },
+      {
+        "chainId": 137,
+        "address": "0x0335DeFC8A1977b99488e0b5f5c6bc3D44fAcdD4",
+        "name": "Attrace",
+        "symbol": "ATTR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/attrace/assets/main/images/attrace_logo_v2_256.png"
+      },
+      {
+        "chainId": 137,
+        "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+        "name": "Eleven.finance",
+        "symbol": "ELE",
+        "decimals": 18,
+        "logoURI": "https://eleven.finance/ELE-logo.svg"
+      },
+      {
       "chainId": 137,
       "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
       "name": "Polytrade",
@@ -671,14 +671,14 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png"
     },
-    {
-      "name": "Reverse",
-      "address": "0x5dd175a4242afe19e5c1051d8cd13fc8979f2329",
-      "symbol": "RVRS",
-      "decimals": 9,
-      "chainId": 137,
-      "logoURI": "https://user-images.githubusercontent.com/85872070/129144899-4c4245e9-19d0-4c22-a930-5d7db497eb2c.png"
-    },
+{
+"name": "Reverse",
+"address": "0x5dd175a4242afe19e5c1051d8cd13fc8979f2329",
+"symbol": "RVRS",
+"decimals": 9,
+"chainId": 137,
+"logoURI": "https://user-images.githubusercontent.com/85872070/129144899-4c4245e9-19d0-4c22-a930-5d7db497eb2c.png"
+	  },
     {
       "chainId": 137,
       "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
