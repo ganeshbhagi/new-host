@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0xbc7cB585346f4F59d07121Bb9Ed7358076243539",
+      "name": "Silver",
+      "symbol": "SILVER",
+      "decimals": 18,
+      "logoURI": "https://afksystem.finance/images/tokens/silver.svg"
+    },
+    {
+      "chainId": 137,
       "address": "0x2a82437475a60bebd53e33997636fade77604fc2",
       "name": "Cirus",
       "symbol": "CIRUS",
