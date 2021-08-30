@@ -4,6 +4,15 @@
   "keywords": ["dfyn", "defi"],
   "timestamp": "2020-09-03T12:37:57.000+00:00",
   "tokens": [
+	  
+    {
+      "chainId": 137,
+      "address": "0xCB898b0eFb084Df14dd8E018dA37B4d0f06aB26D",
+      "name": "Sing Token",
+      "symbol": "SING",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/singularfarm/assets/main/200.png"
+    },
     {
       "chainId": 137,
       "address": "0xbc7cB585346f4F59d07121Bb9Ed7358076243539",
