@@ -553,7 +553,7 @@
       },
       {
           "name": "vDFYN",
-          "address": "0x856616C72d1A5dd174b188F67A0E29e0eAFE74B9",
+          "address": "0x75455c3DE45dD32CBE9a5aD5E518D3D50823c976",
           "symbol": "vDFYN",
           "decimals": 18,
           "chainId": 137,
@@ -722,7 +722,7 @@
   ],
   "version": {
       "major": 1,
-      "minor": 50,
+      "minor": 51,
       "patch": 0
   }
 }
