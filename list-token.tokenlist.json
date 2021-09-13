@@ -7,6 +7,14 @@
   ],
   "timestamp": "2021-09-07T12:37:57.000+00:00",
   "tokens": [
+        {
+            "chainId": 137,
+            "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
+            "name": "Matrixswap",
+            "symbol": "MATRIX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18297/small/nYGHNWiB_400x400.jpg?1631364044"
+        },
       {
           "chainId": 137,
           "address": "0xCB898b0eFb084Df14dd8E018dA37B4d0f06aB26D",
@@ -714,7 +722,7 @@
   ],
   "version": {
       "major": 1,
-      "minor": 49,
+      "minor": 50,
       "patch": 0
   }
 }
