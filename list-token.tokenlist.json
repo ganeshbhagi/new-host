@@ -290,6 +290,15 @@
             "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/polysafe_32.png"
         },
         
+                                {
+            "chainId": 137,
+            "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
+            "name": "Matrixswap",
+            "symbol": "MATRIX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18297/small/nYGHNWiB_400x400.jpg?1631364044"
+        },
+        
                            {
             "chainId": 137,
             "address": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
