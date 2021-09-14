@@ -718,6 +718,14 @@
           "symbol": "IRON",
           "decimals": 18,
           "logoURI": "https://ironfi-public.s3.us-east-2.amazonaws.com/tokens/IRON.png"
+      },
+      {
+        "chainId": 137,
+        "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+        "name": "IRIS",
+        "symbol": "IRIS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/18361/small/hermes.PNG"
       }
   ],
   "version": {
