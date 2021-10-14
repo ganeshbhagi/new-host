@@ -726,6 +726,14 @@
         "symbol": "IRIS",
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/18361/small/hermes.PNG"
+      },
+     {
+        "chainId": 137,
+        "address": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
+        "name": "PolkaBridge",
+        "symbol": "PBR",
+        "decimals": 18,
+        "logoURI": "https://imgur.com/a/I8a4qpC"
       }
   ],
   "version": {
