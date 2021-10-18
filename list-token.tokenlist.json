@@ -734,11 +734,60 @@
         "symbol": "PBR",
         "decimals": 18,
         "logoURI": "https://imgur.com/a/I8a4qpC"
-      }
+      },
+    {
+    "name": "USD Coin",
+    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+  },
+    {
+    "name": "Wrapped Bitcoin",
+    "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 250,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+  },
+{
+    "name": "Dai Stablecoin",
+    "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
+  },
+  {
+    "name": "Frapped USDT",
+    "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+  },
+{
+    "name": "Wrapped Fantom",
+    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+  },
+{
+    "name": "Dfyn Token",
+    "address": "0x7a4b1abc1409c69c2ed71ab34dae43e2ff6f9928",
+    "symbol": "DFYN",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
+  }
+      
   ],
   "version": {
       "major": 1,
-      "minor": 51,
+      "minor": 52,
       "patch": 0
   }
 }
