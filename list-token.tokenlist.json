@@ -776,6 +776,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
   },
 {
+    "name": "Wrapped Ether",
+    "address": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum.svg"
+  },
+{
     "name": "Dfyn Token",
     "address": "0x7a4b1abc1409c69c2ed71ab34dae43e2ff6f9928",
     "symbol": "DFYN",
@@ -787,7 +795,7 @@
   ],
   "version": {
       "major": 1,
-      "minor": 53,
+      "minor": 54,
       "patch": 0
   }
 }
