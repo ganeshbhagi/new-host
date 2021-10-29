@@ -9,6 +9,14 @@
   "tokens": [
         {
             "chainId": 137,
+            "address": "0x577aa684B89578628941D648f1Fbd6dDE338F059",
+            "name": "Apollo",
+            "symbol": "APOLLO",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/YLYTVJ7/APOLLO-PNG2.png"
+        },
+        {
+            "chainId": 137,
             "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
             "name": "Matrixswap",
             "symbol": "MATRIX",
