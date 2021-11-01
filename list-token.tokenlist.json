@@ -7,6 +7,14 @@
   ],
   "timestamp": "2021-10-30T12:37:57.000+00:00",
   "tokens": [
+         {
+            "chainId": 137,
+            "address": "0xaBc6790673a60b8A7f588450f59D2d256b1aeF7F",
+            "name": "OMNI Token",
+            "symbol": "OAI",
+            "decimals": 18,
+            "logoURI": "https://omni.ai/images/cf5b6ec4.png"
+        },
         {
             "chainId": 137,
             "address": "0x577aa684B89578628941D648f1Fbd6dDE338F059",
