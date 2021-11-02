@@ -7,6 +7,14 @@
   ],
   "timestamp": "2021-10-30T12:37:57.000+00:00",
   "tokens": [
+    {
+      "name": "SHIBA INU",
+      "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
+    },
          {
             "chainId": 137,
             "address": "0xaBc6790673a60b8A7f588450f59D2d256b1aeF7F",
@@ -818,7 +826,7 @@
   ],
   "version": {
       "major": 2,
-      "minor": 59,
+      "minor": 60,
       "patch": 0
   }
 }
