@@ -7,6 +7,14 @@
   ],
   "timestamp": "2021-10-30T12:37:57.000+00:00",
   "tokens": [
+        {
+      "name": "Autonio Foundation",
+      "address": "0xad684e79CE4b6D464f2Ff7c3FD51646892e24b96",
+      "symbol": "NIOX",
+      "decimals": 4,
+      "chainId": 137,
+      "logoURI": "https://i.ibb.co/NtzR67m/Group-357556-2.png"
+    },
     {
       "name": "SHIBA INU",
       "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
