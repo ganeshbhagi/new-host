@@ -7,6 +7,22 @@
   ],
   "timestamp": "2021-10-30T12:37:57.000+00:00",
   "tokens": [
+    {
+      "name": "SOL",
+      "address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
+      "symbol": "SOL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452"
+    },
+   {
+      "name": "Decentraland MANA",
+      "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+      "symbol": "MANA",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+    },
         {
       "name": "Autonio Foundation",
       "address": "0xad684e79CE4b6D464f2Ff7c3FD51646892e24b96",
@@ -834,7 +850,7 @@
   ],
   "version": {
       "major": 2,
-      "minor": 60,
+      "minor": 61,
       "patch": 0
   }
 }
