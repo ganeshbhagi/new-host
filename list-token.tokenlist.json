@@ -8,6 +8,14 @@
   "timestamp": "2021-10-30T12:37:57.000+00:00",
   "tokens": [
     {
+      "name": "StackOS",
+      "address": "0x980111ae1b84e50222c8843e3a7a038f36fecd2b",
+      "symbol": "STACK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9201.png"
+    },    
+    {
       "name": "SOL",
       "address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
       "symbol": "SOL",
