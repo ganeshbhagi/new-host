@@ -861,7 +861,15 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/21674/small/56835021.png"
-      }
+      },
+    {
+      "name": "Krida Fans",
+      "address": "0x3c5a5885f6ee4acc2597069fe3c19f49c6efba96",
+      "symbol": "KRIDA",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://www.dropbox.com/s/m4smz3c7036gipr/Krida_token_logo.png"
+    }
   ],
   "version": {
       "major": 2,
