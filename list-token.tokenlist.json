@@ -14,7 +14,15 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9201.png"
-    },    
+    }, 
+    {
+      "name": "StackOS",
+      "address": "0x6855f7bb6287f94ddcc8915e37e73a3c9fee5cf3",
+      "symbol": "STACK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9201.png"
+    }, 
     {
       "name": "SOL",
       "address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
@@ -860,6 +868,14 @@
         "symbol": "SAFLE",
         "decimals": 18,
         "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/21674/small/56835021.png"
+      },
+      {
+        "name": "Safle",
+        "address": "0x73afc23510b40dcbeabc25ffbc8c2976ed9f950c",
+        "symbol": "SAFLE",
+        "decimals": 18,
+        "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/21674/small/56835021.png"
       },
     {
