@@ -7,6 +7,14 @@
     ],
     "timestamp": "2020-09-03T12:37:57.000+00:00",
     "tokens": [
+         {
+            "chainId": 137,
+            "address": "0x0A307BD521701F9D70FB29BfA9E2e36DC998daDB",
+            "name": "CoinWealth",
+            "symbol": "CNW",
+            "decimals": 6,
+            "logoURI": "https://i.imgur.com/2bLksJa.png"
+        },
         {
             "chainId": 137,
             "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
@@ -302,7 +310,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     }
 }
