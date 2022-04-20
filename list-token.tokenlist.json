@@ -894,6 +894,30 @@
       "decimals": 6,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/23769/small/cw_logo-4955f59a5c8079f246fa07ac71b2541870ca7d906ca1d9c26d74a3870fafef2f_%281%29.png?1645425522"
+    },
+    {
+      "name": "COR Token",
+      "address": "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835",
+      "symbol": "COR",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/12856/large/COR.png?1620210966"
+    },
+    {
+      "name": "COR Token",
+      "address": "0xA4b6573c9AE09d81e4D1360e6402B81F52557098",
+      "symbol": "COR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/12856/large/COR.png?1620210966"
+    },
+    {
+      "name": "COR Token",
+      "address": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
+      "symbol": "COR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12856/large/COR.png?1620210966"
     }
   ],
   "version": {
