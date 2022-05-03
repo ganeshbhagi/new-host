@@ -910,19 +910,11 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://assets.coingecko.com/coins/images/12856/large/COR.png?1620210966"
-    },
-    {
-      "name": "COR Token",
-      "address": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
-      "symbol": "COR",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/12856/large/COR.png?1620210966"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 67,
+    "minor": 68,
     "patch": 0
   }
 }
