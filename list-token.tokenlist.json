@@ -910,6 +910,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://assets.coingecko.com/coins/images/12856/large/COR.png?1620210966"
+    },
+    {
+      "name": "Unbound Dollar",
+      "address": "0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413",
+      "symbol": "UND",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
     }
   ],
   "version": {
