@@ -918,11 +918,19 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+    },
+       {
+      "name": "TITANDAO",
+      "address": "0x60caA53091da042196Cb9B5f98aAA9552AeF8c82",
+      "symbol": "CUBAN",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://drive.google.com/file/d/1yuahTv9deIVo5hRT01rTBApmmtftCYts/view"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 69,
+    "minor": 70,
     "patch": 0
   }
 }
