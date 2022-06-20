@@ -934,11 +934,59 @@
       "decimals": 18,
       "chainId": 1666600000,
       "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "EVO",
+      "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+      "symbol": "EVO",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "EVO",
+      "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+      "symbol": "EVO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "EVO",
+      "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+      "symbol": "EVO",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "EVO",
+      "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+      "symbol": "EVO",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "EVO",
+      "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+      "symbol": "EVO",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "EVO",
+      "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+      "symbol": "EVO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 71,
+    "minor": 72,
     "patch": 0
   }
 }
