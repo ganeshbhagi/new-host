@@ -982,11 +982,35 @@
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135"
+    },
+    {
+      "name": "TravaFinance",
+      "address": "0x0391bE54E72F7e001f6BBc331777710b4f2999Ef",
+      "symbol": "TRAVA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png"
+    },
+    {
+      "name": "TravaFinance",
+      "address": "0x186D0Ba3dfC3386C464eECd96A61fBB1E2dA00bf",
+      "symbol": "TRAVA",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png"
+    },
+    {
+      "name": "TravaFinance",
+      "address": "0x477a9D5dF9bedA06F6b021136a2efe7BE242fCC9",
+      "symbol": "TRAVA",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 72,
+    "minor": 73,
     "patch": 0
   }
 }
