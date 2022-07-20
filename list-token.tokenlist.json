@@ -1006,6 +1006,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png"
+    },
+    {
+      "name": "Stable One Rocket",
+      "address": "0x94788309D420ad9f9f16d79fC13Ab74de83f85F7",
+      "symbol": "SROCKET",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://api-live.stableonegroup.com/media-upload/mediaFiles/test/2bed54cfb8aa3c851e7ea43d1b900367.png"
     }
   ],
   "version": {
