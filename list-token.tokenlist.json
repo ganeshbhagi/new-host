@@ -1033,14 +1033,6 @@
     },
     {
       "name": "Unbound Dollar",
-      "address": "0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413",
-      "symbol": "UND",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
-    },
-    {
-      "name": "Unbound Dollar",
       "address": "0xE7C04392A3a426D532f83cA968Bcc0341E99583D",
       "symbol": "UND",
       "decimals": 18,
@@ -1090,7 +1082,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 77,
+    "minor": 78,
     "patch": 0
   }
 }
