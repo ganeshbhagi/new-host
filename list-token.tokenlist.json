@@ -1022,11 +1022,75 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9588.png"
+    },
+    {
+      "name": "Unbound Dollar",
+      "address": "0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
+      "symbol": "UND",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+    },
+    {
+      "name": "Unbound Dollar",
+      "address": "0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413",
+      "symbol": "UND",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+    },
+    {
+      "name": "Unbound Dollar",
+      "address": "0xE7C04392A3a426D532f83cA968Bcc0341E99583D",
+      "symbol": "UND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+    },
+    {
+      "name": "Unbound Dollar",
+      "address": "0x6B56Ec4a92765203508FB40feC9fa23E549B705a",
+      "symbol": "UND",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+    },
+    {
+      "name": "Unbound",
+      "address": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+      "symbol": "UNB",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png"
+    },
+    {
+      "name": "Unbound",
+      "address": "0xD81F558b71A5323e433729009D55159955F8A7f9",
+      "symbol": "UNB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png"
+    },
+    {
+      "name": "Unbound",
+      "address": "0x301AF3Eff0c904Dc5DdD06FAa808f653474F7FcC",
+      "symbol": "UNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png"
+    },
+    {
+      "name": "Unbound",
+      "address": "0xF915fDDa4c882731C0456a4214548Cd13A822886",
+      "symbol": "UNB",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 75,
+    "minor": 77,
     "patch": 0
   }
 }
