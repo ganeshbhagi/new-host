@@ -17,6 +17,14 @@
         },
         {
             "chainId": 137,
+            "address": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+            "name": "EthermonToken",
+            "symbol": "EMON",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/15889/large/LtET0reH_400x400.jpg?1622213962"
+        },
+        {
+            "chainId": 137,
             "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
             "name": "DAI",
             "symbol": "DAI",
