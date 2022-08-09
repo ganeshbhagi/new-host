@@ -1089,14 +1089,6 @@
     },
     {
       "name": "Nord Finance",
-      "address": "0xf6f85b3f9fd581c2ee717c404f7684486f057f95",
-      "symbol": "NORD",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/13630/small/nord.jpg?1610465136"
-    },
-    {
-      "name": "Nord Finance",
       "address": "0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2",
       "symbol": "NORD",
       "decimals": 18,
@@ -1146,7 +1138,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 82,
+    "minor": 83,
     "patch": 0
   }
 }
