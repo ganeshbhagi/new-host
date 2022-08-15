@@ -253,7 +253,7 @@
       "name": "WBNB",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/wormholebnb_32.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
       "chainId": 137,
@@ -1154,7 +1154,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 83,
+    "minor": 84,
     "patch": 0
   }
 }
