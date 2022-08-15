@@ -249,6 +249,22 @@
     },
     {
       "chainId": 137,
+      "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+    },
+    {
+      "chainId": 137,
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg"
+    },
+    {
+      "chainId": 137,
       "address": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
       "name": "IGG",
       "symbol": "IGG",
@@ -1138,7 +1154,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 83,
+    "minor": 84,
     "patch": 0
   }
 }
