@@ -249,6 +249,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/wormholebnb_32.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
       "name": "The Sandbox",
       "symbol": "SAND",
