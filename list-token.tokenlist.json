@@ -249,6 +249,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg"
+    },
+    {
+      "chainId": 137,
       "address": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
       "name": "IGG",
       "symbol": "IGG",
