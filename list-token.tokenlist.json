@@ -1150,11 +1150,19 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/13404/small/MAHA_Token.png?1625651604"
+    },
+    {
+      "name": "Easy",
+      "address": "0xE0ddA2fc4f4750276641BE3a82634fa5Dd956EDE",
+      "symbol": "EZ",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 84,
+    "minor": 85,
     "patch": 0
   }
 }
