@@ -1158,11 +1158,19 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png"
+    },
+    {
+      "name": "Easy",
+      "address": "0x00AbA6fE5557De1a1d565658cBDdddf7C710a1eb",
+      "symbol": "EZ",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 85,
+    "minor": 86,
     "patch": 0
   }
 }
