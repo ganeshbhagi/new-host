@@ -1174,11 +1174,19 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png"
+    },
+    {
+      "name": "Gains Network",
+      "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+      "symbol": "GNS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 87,
+    "minor": 88,
     "patch": 0
   }
 }
