@@ -1182,11 +1182,19 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png"
+    },
+    {
+      "name": "Sekuya",
+      "address": "0xE327Ce757CD206721e100812E744fc56e4E0A969",
+      "symbol": "SKUY",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18299.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 88,
+    "minor": 89,
     "patch": 0
   }
 }
