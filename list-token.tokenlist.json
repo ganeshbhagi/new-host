@@ -1184,6 +1184,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png"
     },
     {
+      "name": "Gains Network",
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "symbol": "GNS",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png"
+    },
+    {
       "name": "Sekuya",
       "address": "0xE327Ce757CD206721e100812E744fc56e4E0A969",
       "symbol": "SKUY",
@@ -1194,7 +1202,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 89,
+    "minor": 90,
     "patch": 0
   }
 }
