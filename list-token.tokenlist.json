@@ -1214,11 +1214,20 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://dynamic-assets.coinbase.com/7847386af4c5b0989d05a5cbe9643def4cab81d611cc73a76be7e5e17681cf4467ec3ad4b720d5d54c896c096f5f5edf9e326639c3ed9821d23b4164138ec31d/asset_icons/87955db33d68dfb46e667566134ecbb662e9852f8c0dd61eeb4273f97918acb4.png"
-    }
+    },
+    {
+      "name": "Mummy Finance",
+      "address": "0x01e77288b38b416f972428d562454fb329350bac",
+      "symbol": "MMY",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
+  }
   ],
+
   "version": {
     "major": 2,
-    "minor": 93,
+    "minor": 94,
     "patch": 0
   }
 }
