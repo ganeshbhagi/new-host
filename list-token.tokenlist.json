@@ -432,8 +432,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476"
     },
     {
-      "chainId": 137,
-      "address": "0xbE5cf150E1fF59ca7F2499Eaa13BFC40AAE70e78",
+      "chainId": 1,
+      "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
       "name": "Glitch",
       "symbol": "GLCH",
       "decimals": 18,
@@ -1230,12 +1230,20 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23419.png"
-  }
+  },
+    {
+      "chainId": 56,
+      "address": "0xF0902eB0049A4003793BAb33F3566A22D2834442",
+      "name": "Glitch",
+      "symbol": "GLCH",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/glitch_32.png"
+    }
   ],
 
   "version": {
     "major": 2,
-    "minor": 95,
+    "minor": 96,
     "patch": 0
   }
 }
