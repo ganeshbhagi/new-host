@@ -1238,12 +1238,20 @@
       "symbol": "GLCH",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/glitch_32.png"
+  },
+    {
+      "chainId": 10,
+      "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+      "name": "Mummy Finance",
+      "symbol": "MMY",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
     }
   ],
 
   "version": {
     "major": 2,
-    "minor": 96,
+    "minor": 97,
     "patch": 0
   }
 }
