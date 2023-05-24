@@ -1278,12 +1278,28 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+   },
+    {
+      "chainId": 42161,
+      "address": "0x13538f1450Ca2E1882Df650F87Eb996fF4Ffec34",
+      "name": "DFYN Token",
+      "symbol": "DFYN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
+   },
+    {
+      "chainId": 42161,
+      "address": "0x11BbF12363dC8375b78D2719395d505f52a02F68",
+      "name": "Route Token",
+      "symbol": "ROUTE",
+      "decimals": 18,
+      "logoURI": "https://router-protocol.s3-ap-southeast-1.amazonaws.com/route+token+200x200-19.png"
    }
   ],
 
   "version": {
     "major": 2,
-    "minor": 99,
+    "minor": 100,
     "patch": 0
   }
 }
