@@ -935,7 +935,7 @@
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
     },
-       {
+    {
       "name": "TITANDAO",
       "address": "0x60caA53091da042196Cb9B5f98aAA9552AeF8c82",
       "symbol": "CUBAN",
@@ -1200,20 +1200,20 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18299.png"
     },
     {
-        "name": "Liquid Staking Matic",
-        "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
-        "symbol": "MaticX",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://polygonscan.com/token/images/stradermatic_32.png"
+      "name": "Liquid Staking Matic",
+      "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+      "symbol": "MaticX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://polygonscan.com/token/images/stradermatic_32.png"
     },
     {
-        "name": "Moss Carbon Credit",
-        "address": "0xAa7DbD1598251f856C12f63557A4C4397c253Cea",
-        "symbol": "MCO2",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://dynamic-assets.coinbase.com/7847386af4c5b0989d05a5cbe9643def4cab81d611cc73a76be7e5e17681cf4467ec3ad4b720d5d54c896c096f5f5edf9e326639c3ed9821d23b4164138ec31d/asset_icons/87955db33d68dfb46e667566134ecbb662e9852f8c0dd61eeb4273f97918acb4.png"
+      "name": "Moss Carbon Credit",
+      "address": "0xAa7DbD1598251f856C12f63557A4C4397c253Cea",
+      "symbol": "MCO2",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://dynamic-assets.coinbase.com/7847386af4c5b0989d05a5cbe9643def4cab81d611cc73a76be7e5e17681cf4467ec3ad4b720d5d54c896c096f5f5edf9e326639c3ed9821d23b4164138ec31d/asset_icons/87955db33d68dfb46e667566134ecbb662e9852f8c0dd61eeb4273f97918acb4.png"
     },
     {
       "name": "Mummy Finance",
@@ -1222,7 +1222,7 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
-  },
+    },
     {
       "name": "Zyberswap",
       "address": "0x3B475F6f2f41853706afc9Fa6a6b8C5dF1a2724c",
@@ -1230,7 +1230,7 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23419.png"
-  },
+    },
     {
       "chainId": 56,
       "address": "0xF0902eB0049A4003793BAb33F3566A22D2834442",
@@ -1238,7 +1238,7 @@
       "symbol": "GLCH",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/glitch_32.png"
-  },
+    },
     {
       "chainId": 10,
       "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
@@ -1246,7 +1246,7 @@
       "symbol": "MMY",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
-  },
+    },
     {
       "chainId": 42161,
       "address": "0xb9af4762c039d63e30039f1712dfab77026408c7",
@@ -1254,12 +1254,43 @@
       "symbol": "AIBB",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24742.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x9d9b6f1475ab43b8b83829771237fd44432b04a3",
+      "name": "Alpha Dune",
+      "symbol": "DUNE",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/alphadune_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xF196b73EbA4a75680969AaF0C9979A008204A0A9",
+      "name": "R Alpha Dune",
+      "symbol": "RDUNE",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/alphadune_32.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xF196b73EbA4a75680969AaF0C9979A008204A0A9",
+      "name": "Alpha Dune",
+      "symbol": "RDUNE",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/alphadune_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xF196b73EbA4a75680969AaF0C9979A008204A0A9",
+      "name": "Alpha Dune",
+      "symbol": "RDUNE",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/alphadune_32.png"
     }
   ],
-
   "version": {
     "major": 2,
-    "minor": 98,
+    "minor": 99,
     "patch": 0
   }
 }
