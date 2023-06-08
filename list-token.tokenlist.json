@@ -1264,7 +1264,7 @@
       "logoURI": "https://arbitrum.foundation/logo.png"
    },
     {
-      "chainId": 42161,
+      "chainId": 137,
       "address": "0x96c55cBf479B5B52bDf3FDADA2A935c00f471399",
       "name": "dummy INR",
       "symbol": "DINR",
@@ -1272,7 +1272,7 @@
       "logoURI": "https://raw.githubusercontent.com/dfyn/dummy-logo/main/i_logo.svg"
    },
     {
-      "chainId": 42161,
+      "chainId": 137,
       "address": "0x8a547e9FD1fC38f6DfCa93b759956C42a476490b",
       "name": "Dummy ETH",
       "symbol": "DETH",
