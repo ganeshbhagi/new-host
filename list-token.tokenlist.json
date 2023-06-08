@@ -1265,6 +1265,22 @@
    },
     {
       "chainId": 42161,
+      "address": "0x96c55cBf479B5B52bDf3FDADA2A935c00f471399",
+      "name": "dummy INR",
+      "symbol": "DINR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfyn/dummy-logo/main/i_logo.svg"
+   },
+    {
+      "chainId": 42161,
+      "address": "0x8a547e9FD1fC38f6DfCa93b759956C42a476490b",
+      "name": "Dummy ETH",
+      "symbol": "DETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfyn/dummy-logo/main/e_logo.svg"
+   },
+    {
+      "chainId": 42161,
       "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "name": "Tether USD",
       "symbol": "USDT",
