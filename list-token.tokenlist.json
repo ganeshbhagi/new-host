@@ -1288,7 +1288,7 @@
       "logoURI": "https://arbiscan.io/token/images/tether_32.png"
    },
     {
-      "chainId": 42161,
+      "chainId": 137,
       "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "name": "USD Coin (Arb1)",
       "symbol": "USDC",
@@ -1296,7 +1296,7 @@
       "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
    },
     {
-      "chainId": 42161,
+      "chainId": 137,
       "address": "0x13538f1450Ca2E1882Df650F87Eb996fF4Ffec34",
       "name": "DFYN Token",
       "symbol": "DFYN",
