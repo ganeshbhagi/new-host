@@ -1286,11 +1286,19 @@
       "symbol": "RDUNE",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/alphadune_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xcdb4bb51801a1f399d4402c61bc098a72c382e65",
+      "name": "OPX Finance",
+      "symbol": "OPX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22673.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 99,
+    "minor": 100,
     "patch": 0
   }
 }
