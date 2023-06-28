@@ -1294,11 +1294,19 @@
       "symbol": "OPX",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22673.png"
-    }
+    },
+    {
+      "name": "Quick Intel",
+      "address": "0x6d038130b9b379a373b1d33a29d5904ed1bb9026",
+      "symbol": "QUICKI",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://assets.coingecko.com/coins/images/29605/small/IMG_6589D0616DF1-1.jpeg?1679994169"
+    },
   ],
   "version": {
     "major": 2,
-    "minor": 100,
+    "minor": 101,
     "patch": 0
   }
 }
