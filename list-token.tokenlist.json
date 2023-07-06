@@ -1302,11 +1302,19 @@
 			"decimals": 18,
 			"chainId": 42161,
 			"logoURI": "https://assets.coingecko.com/coins/images/29605/small/IMG_6589D0616DF1-1.jpeg?1679994169"
+		},
+		{
+			"name": "Mummy Finance",
+			"address": "0xA6D7D0e650aa40FFa42d845A354c12c2bc0aB15f",
+			"symbol": "MMY",
+			"decimals": 18,
+			"chainId": 42161,
+			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
 		}
 	],
 	"version": {
 		"major": 2,
-		"minor": 102,
+		"minor": 103,
 		"patch": 0
 	}
 }
