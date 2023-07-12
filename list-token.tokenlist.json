@@ -1310,11 +1310,27 @@
 			"decimals": 18,
 			"chainId": 42161,
 			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xd23ed8ca350ce2631f7ecdc5e6bf80d0a1debb7b",
+			"name": "PlanQ",
+			"symbol": "WPLQ",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
+		},
+                {
+			"chainId": 56,
+			"address": "0x9c08951397bc02cd66f69eadbb8d491f8bb08c5e",
+			"name": "PlanQ",
+			"symbol": "WPLQ",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
 		}
 	],
 	"version": {
 		"major": 2,
-		"minor": 103,
+		"minor": 105,
 		"patch": 0
 	}
 }
