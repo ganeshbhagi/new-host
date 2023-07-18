@@ -1326,11 +1326,19 @@
 			"symbol": "WPLQ",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
+		},
+                {
+			"chainId": 56,
+			"address": "0x06278743169ec1d910c0a8bb5a6d3b522a425dd1",
+			"name": "Crypto Real Estate",
+			"symbol": "CRE",
+			"decimals": 18,
+			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26771.png"
 		}
 	],
 	"version": {
 		"major": 2,
-		"minor": 105,
+		"minor": 106,
 		"patch": 0
 	}
 }
