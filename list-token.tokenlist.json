@@ -1334,11 +1334,75 @@
 			"symbol": "CRE",
 			"decimals": 18,
 			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26771.png"
+		},
+                {
+			"chainId": 324,
+			"address": "0x16A9494e257703797D747540f01683952547EE5b",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 169,
+			"address": "0x91647632245caBf3d66121F86C387aE0ad295F9A",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 1,
+			"address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 8453,
+			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 5000,
+			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 534352,
+			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 59144,
+			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+                {
+			"chainId": 56,
+			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+			"name": "iZi",
+			"symbol": "izumi Token",
+			"decimals": 18,
+			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		}
 	],
 	"version": {
 		"major": 2,
-		"minor": 106,
+		"minor": 107,
 		"patch": 0
 	}
 }
